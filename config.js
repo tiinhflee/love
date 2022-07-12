@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `...quần áo hay không. Còn anh thì yêu em nhiều lắm :v`,
     btnIntro: 'Liên quan ghê!',
     title: 'Em đã yêu anh ngay từ lần nói chuyện đầu tiên đúng hông 😙',
-    desc: 'Lêu lêu đúng gồi đúng hông :v',
+    desc: 'Nếu không thì là đúng em yêu anh rồi đó :v',
     btnYes: 'Dạ em yêu anh lắm <33',
     btnNo: 'Không, em trai à :3',
     question:'EM có muốn gửi lời gì cho anh hông',

@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Nếu không thì là đúng em yêu anh rồi đó :v',
     btnYes: 'Dạ em yêu anh lắm <33',
     btnNo: 'Không, em trai à :3',
-    question:'EM có muốn gửi lời gì cho anh hông',
+    question:'Em có muốn gửi lời gì cho anh hông',
     btnReply: 'Gửi anh Tình <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
